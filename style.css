@@ -1,0 +1,18 @@
+.red-circle {
+  position: absolute;
+  right: 0;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: red;
+}
+body {
+  display: flex;
+}
+p {
+  padding: 50px;
+  font-family: ,bold;
+  font-size: 30px;
+  width: 30%;
+  text-indent: 30px;
+}
